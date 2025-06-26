@@ -1,0 +1,28 @@
+# Core ML/DL libraries
+tensorflow
+numpy
+pandas
+scikit-learn
+
+# For image processing and computer vision
+opencv-python
+matplotlib
+Pillow
+
+# For visualization
+seaborn
+
+# Optional: If using a pretrained model from Keras Applications or transfer learning
+keras
+
+# Jupyter Notebook (for running notebooks)
+notebook
+
+# tqdm for progress bars
+tqdm
+
+# imutils for basic image operations
+imutils
+
+# If using face detection with Dlib (optional)
+# dlib
